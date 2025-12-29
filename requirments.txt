@@ -4,3 +4,6 @@ langchain
 langchain-openai
 faiss-cpu
 tiktoken
+ipykernel
+beautifulsoup4
+wikipedia
