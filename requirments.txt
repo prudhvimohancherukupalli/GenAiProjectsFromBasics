@@ -7,3 +7,6 @@ tiktoken
 ipykernel
 beautifulsoup4
 wikipedia
+langchain-community
+langchain-chroma
+chromadb
