@@ -9,4 +9,6 @@ beautifulsoup4
 wikipedia
 langchain-community
 langchain-chroma
+langchain_core
 chromadb
+streamlit
